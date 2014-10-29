@@ -13,6 +13,7 @@ bower install date-steroids
 ```
 
 ### Usage 
+Straight from http://blog.stevenlevithan.com/archives/date-time-format
 
 ```js
 var now = new Date();
